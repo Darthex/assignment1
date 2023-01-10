@@ -1,7 +1,7 @@
 how to use ssh key
 
-1. open terminal and run 'ssh-keygen' to obtain unique private and public ssh     key
+1. open terminal and run 'ssh-keygen' to obtain unique private and public ssh key
 
-2. copy the public ssh key and paste it in 'ssh and gpg keys' settings in your    github account
+2. copy the public ssh key and paste it in 'ssh and gpg keys' settings in your github account
 
 3. now you are connected
