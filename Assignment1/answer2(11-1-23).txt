@@ -1,0 +1,4 @@
+Difference between javascript and nodejs
+
+Javascript is a programming language that is used for writing scripts on the website.
+NodeJS is a Javascript runtime environment that will help us run javascript code on our devices
